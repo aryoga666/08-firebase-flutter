@@ -74,7 +74,7 @@ class _LoginPageState extends State<LoginPage> {
           mainAxisSize: MainAxisSize.min,
           mainAxisAlignment: MainAxisAlignment.center,
           children: const [
-            Image(image: AssetImage("assets/email.png"), height: 35.0),
+            Image(image: AssetImage("assets/email.jpeg"), height: 35.0),
             Padding(
               padding: EdgeInsets.only(left: 10),
               child: Text(
@@ -116,7 +116,7 @@ class _LoginPageState extends State<LoginPage> {
           mainAxisSize: MainAxisSize.min,
           mainAxisAlignment: MainAxisAlignment.center,
           children: const [
-            Image(image: AssetImage("assets/google.png"), height: 35.0),
+            Image(image: AssetImage("assets/google.jpeg"), height: 35.0),
             Padding(
               padding: EdgeInsets.only(left: 10),
               child: Text(
